@@ -10,3 +10,4 @@ pacchetti linux:
 4. pip install jupyter 
 5. pip install igraph
 6. pip install cairo
+7. `jupyter notebook ` per lanciare jupyter
