@@ -15,7 +15,7 @@ source $envname/bin/activate
 touch .env
 echo "ENV_NAME=$envname" > .env
 touch .gitignore
-echo "$envname/" > .gitignore
-echo ".ipynb_checkpoints/" > .gitignore
+echo "$envname"/ > .gitignore
+echo ".ipynb_checkpoints/" >> .gitignore
 pip install -r requirements.txt
 deactivate
