@@ -1,0 +1,6 @@
+pycairo
+igraph
+jupyter
+numpy
+ipython
+
