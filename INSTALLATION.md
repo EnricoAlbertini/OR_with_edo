@@ -9,5 +9,5 @@ pacchetti linux:
     powerlevel10k per visione stato di attivazione del venv)
 4. pip install jupyter 
 5. pip install igraph
-6. pip install cairo
+6. pip install pycairo
 7. `jupyter notebook ` per lanciare jupyter
